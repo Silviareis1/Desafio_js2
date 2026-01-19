@@ -30,6 +30,7 @@ conforme as regras do desafio.
 -   Lendário: 91 a 100 vitórias\
 -   Imortal: acima de 100 vitórias
 
+
 ## ▶️ Exemplo de Uso
 
 ``` js
@@ -39,6 +40,12 @@ xp(21, 10);
 ### 📤 Saída esperada
 
     O Herói tem de saldo de 11 está no nível de Prata
+
+
+## 🖨️ Print da Saída no Console
+
+![Resultado do console](code.png)
+
 
 ## ✅ Status
 
